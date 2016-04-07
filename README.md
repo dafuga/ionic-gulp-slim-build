@@ -1,13 +1,14 @@
 # ionic-gulp-slim-build
 
-## Installation
+## Getting Started
+
+Add the package:
 
 ```Node
-npm install 'coffee_enhancer_node'
+npm install 'ionic-gulp-slim-build'
 ```
 
-and add this to your ionic gulpfile:
+and use [this gulpfile](https://github.com/dafuga/ionic-gulp-slim-build/blob/master/ionic_gulpfile.js) gulpfile in your project. 
 
-```Node
-npm install 'coffee_enhancer_node'
-```
+Et voila!! You now have slim support for ionic 2.0 project.
+
