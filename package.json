@@ -13,23 +13,16 @@
     "gulp-slim": "0.0.10",
     "lodash.assign": "^4.0.6"
   },
-  "bugs": {
-    "url": "https://github.com/driftyco/ionic-gulp-tasks/issues"
-  },
   "homepage": "https://github.com/driftyco/ionic-gulp-tasks#readme",
   "_id": "ionic-gulp-sass-build@1.0.0",
   "scripts": {},
   "_shasum": "6b8ae6afe9711474946d9e0b4658ea055c4ffff0",
-  "_from": "ionic-gulp-sass-build@>=1.0.0 <2.0.0",
+  "_from": "ionic-gulp-slim-build@>=1.0.0 <2.0.0",
   "_npmVersion": "3.8.1",
   "_nodeVersion": "0.12.4",
   "_npmUser": {
-    "name": "tlancina",
-    "email": "tim@ionic.io"
-  },
-  "dist": {
-    "shasum": "6b8ae6afe9711474946d9e0b4658ea055c4ffff0",
-    "tarball": "https://registry.npmjs.org/ionic-gulp-sass-build/-/ionic-gulp-sass-build-1.0.0.tgz"
+    "name": "dafuga",
+    "email": ""
   },
   "maintainers": [
     {
